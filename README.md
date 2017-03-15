@@ -1,9 +1,9 @@
 # Sign_System
 江科大计算机协会签到系统
 
-> 开发环境：myeclipse+mysql	
-> 使用技术：java swing+jdbc+线程		
-> 使用场景：协会培训签到统计	
+* 开发环境：myeclipse+mysql
+* 使用技术：java swing+jdbc+线程
+* 使用场景：协会培训签到统计
 
 ---
 > 文件说明	 
@@ -11,7 +11,7 @@
 * jsd1507.sql用来还原该项目数据库
 * 123.xlsx是装有协会成员成员信息的文件，其中字段与数据库字段保持一致，可用navicat for mysql批量导入数据库
 
-> 使用说明	
+> 使用说明  
 
 1. 还原数据库
 2. 导入协会成员数据
