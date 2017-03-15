@@ -1,11 +1,11 @@
 # Sign_System
 江科大计算机协会签到系统
 
+>系统说明
 * 开发环境：myeclipse+mysql
 * 使用技术：java swing+jdbc+线程
 * 使用场景：协会培训签到统计
 
----
 > 文件说明	 
 
 * jsd1507.sql用来还原该项目数据库
